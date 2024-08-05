@@ -1,0 +1,1 @@
+(()=>{"use strict";var e=document.querySelector(".sorting");document.querySelector(".pagination").addEventListener("click",(function(){console.log("You click the handle for pagination")})),e.addEventListener("click",(function(){console.log("You click the handle for sorting")}))})();
